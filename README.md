@@ -16,4 +16,4 @@
 - Witnet Wrapped WIT 
 
 ### Interests
-DeFi infrastructure, oracle systems, cross-chain protocols
+DeFi infrastructure, oracle systems, cross-chain and P2P protocols
