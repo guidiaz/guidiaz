@@ -6,6 +6,7 @@
 - Oracle networks
 - Cross-chain data systems
 - Distributed infrastructure
+- Decentralized applications
 
 ### Key open-source work
 - Witnet Solidity Bridge
